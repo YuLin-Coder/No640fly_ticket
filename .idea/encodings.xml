@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/javabean/db_conn.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/javabean/flight.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/javabean/get_img.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/javabean/get_md5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/javabean/oDate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/addFlight.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/check.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/check_login_reg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/deal_message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/deal_order.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/del_user_message.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/frame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/search_fly.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/upload_file.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/servlet/userCenter.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
